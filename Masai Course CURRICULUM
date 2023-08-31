@@ -1,0 +1,357 @@
+Masai Courese Curriculum
+
+# Software Development - Extensive Learning Course
+
+<aside>
+<img src="/icons/star_red.svg" alt="/icons/star_red.svg" width="40px" /> The following information is subject to change based on specific requirements and circumstances. While every effort has been made to provide accurate and up-to-date content, please note that the details provided are subject to modification, revision, or adjustment as needed.
+
+</aside>
+
+## Week 1-5
+
+### **********************************Programing Basics**********************************
+
+**Introduction to Java:**
+A beginner's guide to Java programming language, covering its basic syntax, features, and principles, providing a solid foundation for further development.
+
+**Variables & Data Types:**
+An exploration of variable declaration, initialization, and usage in Java, along with an introduction to different data types such as integers, strings, booleans, and more.
+
+**Operators & Conditional Statements:**
+A study of operators and their usage in Java, including arithmetic, relational, logical, and assignment operators, along with conditional statements like if-else, switch-case, and ternary operators.
+
+**Functions, Objects, Classes:**
+A comprehensive overview of functions, objects, and classes in Java, focusing on creating reusable code through methods, defining objects, and organizing code into classes for better modularity and maintainability.
+
+### ******************************************************Data Structures & Algorithms******************************************************
+
+**Strings:**
+A deep dive into string manipulation and handling in programming, covering topics such as string concatenation, substring extraction, searching, and various string manipulation techniques.
+
+**Arrays - Single & Multi-Dimensional:**
+A comprehensive exploration of arrays in programming, including both single and multi-dimensional arrays. Topics covered include array declaration, initialization, accessing elements, looping through arrays, and performing operations on array data.
+
+**Key Value Pairs:**
+A discussion on key-value pairs, a fundamental concept in data structures and programming, exploring the relationship between keys and corresponding values. This topic covers dictionary-like data structures and their applications.
+
+**Brute Force:**
+A study of the brute force algorithmic approach, which involves systematically trying all possible solutions to find the desired outcome. This topic covers its applications in problem-solving, optimization, and exploring alternatives when more efficient algorithms are not available.
+
+## Week 6-10
+
+### ******************Databases******************
+
+**Relational Databases:**
+A comprehensive study of relational databases, including the principles of data organization using tables, relationships between entities, and SQL (Structured Query Language) for querying and manipulating data.
+
+**NoSQL Databases:**
+An exploration of NoSQL databases, focusing on non-relational data storage models, such as document-based, key-value, columnar, and graph databases, along with their advantages and use cases.
+
+**Data Modeling:**
+A guide to designing and structuring data models, covering concepts like entities, attributes, relationships, normalization, and denormalization, to ensure efficient data storage and retrieval.
+
+**Indexing and Query Optimization:**
+An examination of indexing techniques and query optimization strategies, aimed at improving database performance by speeding up data retrieval operations and minimizing resource usage.
+
+### ********************Data Structures & Algorithms********************
+
+**Time & Space Complexity:**
+A discussion on analyzing algorithms in terms of their time and space requirements, exploring Big O notation and understanding how algorithm efficiency impacts program execution.
+
+Two Pointer & Sliding Window:
+An exploration of algorithmic techniques involving the use of two pointers or a sliding window to solve specific problems efficiently, such as array traversal, string manipulation, or finding subarrays.
+
+**Stacks & Queues:**
+An introduction to the fundamental data structures of stacks and queues, covering their implementation, operations, and various applications in solving problems and managing data.
+
+**Greedy:**
+A study of the greedy algorithmic paradigm, focusing on making locally optimal choices at each step to reach a globally optimal solution, with examples from various problem domains.
+
+**Sorting:**
+An overview of sorting algorithms, such as bubble sort, selection sort, insertion sort, merge sort, quicksort, and heapsort, along with their efficiency, trade-offs, and practical usage.
+
+**Searching:**
+A discussion on various searching algorithms, including linear search, binary search, hash-based search, and tree-based search, examining their efficiency and suitability for different scenarios.
+
+**Recursion:**
+An exploration of the concept of recursion, where a function calls itself during its execution, examining recursive algorithms, their design principles, and understanding recursion's role in problem-solving.
+
+# Frontend Specialisation
+
+## Week 11-15
+
+### ************************Web Development************************
+
+**HTML**
+
+HTML is the foundational language used for creating and structuring content on the web. It provides a set of tags and elements that allow developers to define the structure and hierarchy of a web page. By using HTML, developers can create headings, paragraphs, lists, images, links, and other elements to organize and present content in a structured manner.
+
+**CSS**
+
+CSS (Cascading Style Sheets) is a powerful language used for styling web pages. It allows developers to control the appearance, layout, and design of HTML elements. With CSS, developers can apply colors, fonts, backgrounds, margins, padding, and other visual properties to enhance the look and feel of a website. CSS provides flexibility and control over the presentation of web content, ensuring a visually appealing and consistent user experience across different devices and browsers.
+
+**CSS Frameworks**
+
+CSS frameworks like Bootstrap, Foundation, or Tailwind CSS are pre-built collections of CSS files and components that streamline web development. These frameworks offer a set of ready-to-use styles, layouts, and interactive components, allowing developers to quickly build responsive and aesthetically pleasing websites. By leveraging CSS frameworks, developers can save time and effort by reusing pre-designed components and focusing more on customizing the appearance and functionality of their web applications.
+
+**CSS Animations**
+
+CSS animations enable developers to add dynamic and interactive elements to web pages. By applying animation properties and keyframes, developers can create movement, transitions, and visual effects to enhance user engagement and provide a more immersive experience. CSS animations can be used to animate elements such as text, images, buttons, and navigation menus, adding a touch of interactivity and delight to the overall user interface.
+
+**Figma for Developers**
+
+Figma is a collaborative design tool that allows designers and developers to work together efficiently. For developers, Figma offers features and capabilities that facilitate the translation of designs into code. With Figma, developers can inspect design components, access design specifications, and extract assets, making the development process smoother and ensuring better alignment between design and implementation.
+
+**CSS Preprocessors**
+
+CSS preprocessors like Sass (Syntactically Awesome Style Sheets) or Less extend the capabilities of CSS by introducing features such as variables, nesting, mixins, and functions. These preprocessors allow developers to write more efficient and maintainable CSS code by reusing styles, organizing code structure, and enabling dynamic CSS generation. By compiling preprocessor code into standard CSS, developers can enhance their productivity and improve the maintainability of their CSS files.
+
+**Version Control - Git**
+
+Git is a widely used version control system that allows developers to track changes in their codebase, collaborate with others, and maintain project history and integrity. With Git, developers can create branches to work on specific features or bug fixes, merge changes from different branches, and revert to previous versions if needed. Git provides a reliable and efficient way to manage code versions, enabling teams to work together seamlessly and ensuring the stability and reliability of web development projects.
+
+## Week 16-20
+
+**Fundamentals of JavaScript**
+
+ Learn the foundational concepts of JavaScript, including variables, data types, operators, control flow, and functions. Gain a solid understanding of the language's syntax and fundamental programming principles.
+
+**DOM Manipulation**
+
+Understand how to manipulate the Document Object Model (DOM) using JavaScript. Learn techniques for selecting elements, modifying their properties and content, creating and removing elements dynamically, and handling events within the DOM.
+
+**Event Handling**
+
+Explore event handling in JavaScript, enabling interactivity and responsiveness in web applications. Learn to listen for and respond to user actions such as clicks, keyboard inputs, and mouse movements, and perform appropriate actions based on those events.
+
+**Asynchronous JavaScript**
+
+Master the principles of asynchronous JavaScript, including callbacks, Promises, and async/await. Learn how to work with asynchronous tasks such as making API requests, handling responses, and managing asynchronous code execution to improve application performance and responsiveness.
+
+**ES6+ Features**
+
+Dive into the features introduced in ECMAScript 6 (ES6) and subsequent versions of JavaScript. Explore modern syntax, including arrow functions, template literals, destructuring, modules, and more, enhancing code readability, efficiency, and maintainability.
+
+**Data Manipulation & API**
+
+Learn to manipulate and transform data using JavaScript, including working with arrays, objects, strings, and JSON. Understand how to make HTTP requests to external APIs, retrieve data, and process responses, enabling the integration of external data sources in your applications.
+
+**Error Handling & Debugging**
+
+Gain skills in error handling and debugging JavaScript code. Learn techniques to catch and handle errors, troubleshoot issues, and use debugging tools and techniques to identify and fix bugs, ensuring code reliability and robustness.
+
+**Testing** 
+
+Explore the fundamentals of testing JavaScript applications. Learn different testing approaches, including unit testing, integration testing, and end-to-end testing. Understand testing frameworks and libraries such as Jest or Mocha, and gain practical experience in writing tests to ensure code quality and reliability.
+
+## Week 21-25
+
+**JSX**
+
+Learn JSX, a syntax extension for JavaScript used in React applications. Understand how JSX allows developers to write HTML-like code within JavaScript, enabling the creation of dynamic and reusable UI components.
+
+**Components and Props**
+
+Explore the concept of components in React, which are reusable building blocks for UI elements. Understand how to create functional and class components, and learn how to pass data and properties (props) between components for dynamic rendering.
+
+**State and Lifecycle Methods**
+
+Gain an understanding of state in React and how it enables components to manage and update their data. Learn about lifecycle methods that allow components to perform actions at different stages of their existence, such as mounting, updating, and unmounting.
+
+**Conditional Rendering**
+
+Discover techniques for conditionally rendering components and UI elements in React. Learn how to control the display of components based on certain conditions, such as user input, API responses, or application state.
+
+**React Router** 
+
+Dive into React Router, a popular library for handling client-side routing in React applications. Learn how to define routes, navigate between different views, and handle URL parameters, enabling a seamless and dynamic user experience.
+
+**React Hooks** 
+
+Explore React Hooks, a feature introduced in React 16.8 that allows functional components to have state and lifecycle functionalities. Learn how to use built-in hooks like useState and useEffect to manage state, handle side effects, and interact with the component lifecycle.
+
+**State Management with Redux**
+
+Understand the principles of state management in complex React applications and learn how Redux can help manage application-wide state. Explore concepts such as actions, reducers, and the Redux store, and learn how to connect Redux with React components to efficiently manage and update application state.
+
+## Week 26-30
+
+**Node.js Modules** 
+
+Explore the concept of modules in Node.js, which allow you to organize and modularize your code into separate files. Learn how to import and export modules, and understand the benefits of using modules for code reusability and maintainability.
+
+**Routing and Middleware**
+
+Dive into routing and middleware in Node.js, which enable you to handle incoming requests and direct them to the appropriate endpoints. Learn how to define routes, handle HTTP methods, and use middleware functions to add additional functionality to your application's request-response cycle.
+
+**RESTful API Development**
+
+Understand the principles and best practices of RESTful API development using Node.js. Learn how to design and create APIs that follow RESTful principles, including defining endpoints, handling requests and responses, and implementing common HTTP methods such as GET, POST, PUT, and DELETE.
+
+**Working with Databases**
+
+Gain proficiency in working with databases in Node.js applications. Explore different database systems such as MongoDB or MySQL, and learn how to connect, query, and manipulate data using database-specific libraries or ORMs (Object-Relational Mappers) like Mongoose or Sequelize.
+
+**Authentication and Authorization**
+
+Explore techniques for implementing authentication and authorization in Node.js applications. Learn how to handle user authentication using strategies such as sessions, JSON Web Tokens (JWT), or OAuth. Understand how to secure routes and resources, and implement role-based access control to restrict access to certain functionalities based on user roles or permissions.
+
+**Deployment and Scaling**
+
+Master the deployment and scaling of Node.js applications to ensure their availability and performance. Learn about different deployment options, such as using cloud platforms like AWS or Heroku, and understand scaling techniques to handle increased traffic or load. Explore concepts like load balancing, horizontal scaling, and containerization to optimize your application's deployment and scalability.
+
+# Backend Specialisation
+
+## Week 11-15
+
+### ********************************************************Data Structures & Algorithms********************************************************
+
+**Backtracking**
+
+Explore the backtracking algorithmic technique, which is used to systematically search for solutions by incrementally building candidates and undoing choices when necessary. Learn how backtracking can be applied to solve problems involving permutations, combinations, constraints, and optimization.
+
+**Linked Lists**
+
+Understand the linked list data structure, where elements are connected through pointers, allowing for dynamic memory allocation and efficient insertion and deletion operations. Learn about the types of linked lists, such as singly linked lists and doubly linked lists, and explore operations like traversal, insertion, deletion, and searching.
+
+**Dynamic Programming**
+
+Delve into dynamic programming, a powerful algorithmic technique for solving complex problems by breaking them into overlapping subproblems and storing the solutions to avoid redundant calculations. Learn about memoization and tabulation approaches, and understand how to apply dynamic programming to optimize solutions for problems like Fibonacci sequence, knapsack, or longest common subsequence.
+
+**Graphs**
+
+Explore graphs, a versatile data structure used to represent relationships between objects. Learn about different graph representations, such as adjacency matrix and adjacency list, and understand various graph algorithms like depth-first search (DFS), breadth-first search (BFS), minimum spanning tree, and shortest path algorithms such as Dijkstra's algorithm or Bellman-Ford algorithm.
+
+**Trees**
+
+Dive into tree data structures, which are hierarchical structures with nodes connected by edges. Understand binary trees, binary search trees, and balanced trees like AVL or Red-Black trees. Explore tree traversal algorithms like in-order, pre-order, and post-order, and learn about applications of trees in areas such as hierarchical data organization, searching, and sorting.
+
+### ************************Web Development************************
+
+**HTML** 
+
+Learn HTML (Hypertext Markup Language), the standard markup language for creating web pages and structuring their content. Gain knowledge of HTML tags, attributes, and elements to create semantic and well-structured web documents.
+
+**CSS**
+
+Explore CSS (Cascading Style Sheets), the styling language used to enhance the appearance and layout of HTML elements. Understand CSS selectors, properties, and values to apply styles, colors, typography, and positioning to web pages.
+
+**CSS Frameworks**
+
+Discover CSS frameworks like Bootstrap, Foundation, or Bulma, which provide pre-designed and reusable CSS components and layouts. Learn how to leverage CSS frameworks to streamline web development and create responsive, visually appealing websites.
+
+**Version Control - Git**
+
+Understand the basics of version control using Git, a distributed version control system. Learn how to initialize a repository, track changes to files, create branches, merge code, and collaborate with others using Git's powerful features for effective code management and team collaboration.
+
+## Week 16-20
+
+**Fundamentals of JavaScript**
+
+Learn the foundational concepts of JavaScript, including variables, data types, operators, control flow, and functions. Gain a solid understanding of the language's syntax and fundamental programming principles.
+
+**DOM Manipulation**
+
+Understand how to manipulate the Document Object Model (DOM) using JavaScript. Learn techniques for selecting elements, modifying their properties and content, creating and removing elements dynamically, and handling events within the DOM.
+
+**Event Handling** 
+
+Explore event handling in JavaScript, enabling interactivity and responsiveness in web applications. Learn to listen for and respond to user actions such as clicks, keyboard inputs, and mouse movements, and perform appropriate actions based on those events.
+
+**Asynchronous JavaScript**
+
+Master the principles of asynchronous JavaScript, including callbacks, Promises, and async/await. Learn how to work with asynchronous tasks such as making API requests, handling responses, and managing asynchronous code execution to improve application performance and responsiveness.
+
+**ES6+ Features**
+
+Dive into the features introduced in ECMAScript 6 (ES6) and subsequent versions of JavaScript. Explore modern syntax, including arrow functions, template literals, destructuring, modules, and more, enhancing code readability, efficiency, and maintainability.
+
+**Data Manipulation & API** 
+
+Learn to manipulate and transform data using JavaScript, including working with arrays, objects, strings, and JSON. Understand how to make HTTP requests to external APIs, retrieve data, and process responses, enabling the integration of external data sources in your applications.
+
+**Error Handling & Debugging**
+
+Gain skills in error handling and debugging JavaScript code. Learn techniques to catch and handle errors, troubleshoot issues, and use debugging tools and techniques to identify and fix bugs, ensuring code reliability and robustness.
+
+**Testing** 
+
+Explore the fundamentals of testing JavaScript applications. Learn different testing approaches, including unit testing, integration testing, and end-to-end testing. Understand testing frameworks and libraries such as Jest or Mocha, and gain practical experience in writing tests to ensure code quality and reliability.
+
+## Week 21-25
+
+### **Advanced Java**
+
+**File Handling in Java** 
+
+Explore the Java File Handling API, which enables reading from and writing to files. Learn how to create, open, read, write, and close files, as well as handle exceptions related to file operations.
+
+**Serialization in Java** 
+
+Understand serialization in Java, which allows objects to be converted into a stream of bytes and persisted to a file or transmitted over a network. Learn how to implement the Serializable interface, handle object serialization and deserialization, and ensure compatibility and security during the serialization process.
+
+**Generics and Functional Programming in Java**
+
+Dive into generics, a feature in Java that provides type safety and enables code reuse. Understand how to use generic classes, methods, and interfaces to write flexible and reusable code. Explore functional programming concepts such as lambda expressions, functional interfaces, and the Stream API, which allow for concise and expressive code for data manipulation and processing.
+
+**Multithreading in Java**
+
+Explore multithreading in Java, which enables concurrent execution of multiple threads within a single program. Learn how to create and manage threads, synchronize access to shared resources, handle thread synchronization issues, and understand advanced concepts like thread pooling and thread synchronization mechanisms like locks and conditions.
+
+### **Spring Boot**
+
+**Introduction to Spring Boot** 
+
+Discover Spring Boot, a popular Java framework that simplifies the development of Java applications by providing a powerful set of tools and conventions. Learn about its features, benefits, and how to set up a basic Spring Boot project.
+
+**Spring Boot Configuration**
+
+Understand the configuration options and mechanisms available in Spring Boot for customizing application behavior. Learn how to configure properties, use environment variables, externalize configuration, and leverage the Spring Boot auto-configuration feature.
+
+**Object-Relational Mapping (ORM)** 
+
+Explore ORM in the context of Spring Boot, which allows for seamless integration between Java objects and relational databases. Learn how to map Java classes to database tables using frameworks like Hibernate, and perform common database operations using object-oriented approaches.
+
+**Data Access Layer (DAL)**
+
+Delve into the Data Access Layer (DAL) in Spring Boot, which is responsible for interacting with the database. Learn how to design and implement data access components using Spring Data JPA, create repositories, perform CRUD operations, and leverage powerful querying capabilities.
+
+## Week 26-30
+
+**RESTful APIs**
+
+Explore the principles and best practices of building RESTful APIs using Spring Boot. Learn how to design RESTful endpoints, handle HTTP methods, implement request/response serialization, handle error responses, and use RESTful conventions for building scalable and interoperable web services.
+
+**Security in Spring Boot**
+
+Understand the security features and capabilities provided by Spring Security in Spring Boot applications. Learn how to implement authentication and authorization, secure endpoints and resources, handle user roles and permissions, and protect against common security vulnerabilities.
+
+**Spring Boot and Microservices**
+
+Discover how Spring Boot can be used to develop microservices, a modular and scalable architectural approach. Learn how to create independent microservices using Spring Boot, implement inter-service communication, handle service discovery, and leverage tools like Spring Cloud for building robust microservice architectures.
+
+**Spring Boot and Caching**
+
+Explore caching techniques and strategies in Spring Boot applications to improve performance and reduce database load. Learn how to implement caching using frameworks like Spring Cache, configure cache providers, handle cache eviction and expiration, and optimize application performance through effective caching strategies.
+
+**Spring Boot MVC**
+
+Delve into the Model-View-Controller (MVC) architectural pattern in the context of Spring Boot. Learn how to develop web applications using Spring Boot MVC, create controllers and handle requests, implement views using template engines like Thymeleaf, handle form submissions, and apply validation and data binding techniques.
+
+## Week 31-35
+
+**LLD (Low-Level Design)** 
+
+Understand the concept of Low-Level Design, which focuses on translating the high-level system architecture into detailed and granular design specifications. Learn how to design the components, modules, and interactions of a system, considering factors such as performance, scalability, security, and maintainability.
+
+**HLD (High-Level Design)**
+
+Explore High-Level Design, which involves defining the overall system architecture and identifying major components and their relationships. Learn how to create a conceptual design that outlines the system's structure, interfaces, and key functionalities, ensuring alignment with business requirements and technical constraints.
+
+**Cloud Services**
+
+Dive into Cloud Services, which encompass various infrastructure and platform offerings provided by cloud providers. Learn about cloud computing models such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Understand how to leverage cloud services for scalable and flexible infrastructure, data storage, networking, and application deployment.
+
+**OS & Networking**
+
+Understand the fundamentals of Operating Systems (OS) and Networking, which form the foundation of computer systems. Learn about OS concepts such as process management, memory management, file systems, and scheduling. Explore networking concepts like protocols, IP addressing, routing, and network security, understanding how they enable communication and data transfer between devices and systems.
