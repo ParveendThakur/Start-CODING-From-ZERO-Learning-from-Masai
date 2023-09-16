@@ -27,3 +27,4 @@
 
 // https://replit.com/@parveend1234/Assignment-2-Mathematical-and-Comparison-Operator#TemperatureConverter.java
 
+// https://replit.com/@parveend1234/Assignment-2-Mathematical-and-Comparison-Operator#BMICalculator.java
