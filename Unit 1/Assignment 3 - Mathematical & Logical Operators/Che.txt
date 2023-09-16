@@ -1,0 +1,428 @@
+S2 D1 : PBS101 : Assignment 3 Quiz : Mathematical, Comparison, Logical Operator, Conditional & Loops
+04/09/2023
+parveend1234@gmail.com Switch account
+ 
+* Indicates required question
+Email
+*
+Record parveend1234@gmail.com as the email to be included with my response
+Student Code
+*
+Student Name
+*
+Manager
+*
+1.  What is the output of the following Java program?
+1 point
+Captionless Image
+5
+x
+No Output
+Error
+2.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+5
+x
+5.5
+Error
+3.  What is the output of the following Java program?  
+*
+1 point
+Captionless Image
+true
+false
+x<y
+y<x
+4.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+Java Java Java
+Java Java
+Java
+Error
+  5. What does the following Java program do?  
+*
+1 point
+Captionless Image
+Prints the product of the first 5 natural numbers
+Prints the first 5 natural numbers
+Prints the first 5 integers
+None of the above
+6.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+true
+false
+x<y
+x == y
+7.  What will be the output of this code segment?  
+*
+1 point
+Captionless Image
+Even
+Odd
+No output
+Error
+8.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+1.5
+1
+2
+3
+9.  Given the following flowchart, which of the following Java programs corresponds to it?
+*
+1 point
+Captionless Image
+
+Option 1
+
+Option 2
+
+Option 3
+
+Option 4
+10.  Given the following Java program, there are missing statements that you need to complete to make it functional.  
+*
+1 point
+Captionless Image
+Statement 1: x = 2; Statement 2: System.out.println("Odd");
+Statement 1: x = 2; Statement 2: System.out.println("Even");
+Statement 1: x = 3; Statement 2: System.out.println("Even");
+Statement 1: x = 3; Statement 2: System.out.println("Odd");
+11.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+Java
+Language
+No output
+Error
+12.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+true
+false
+isActive
+Error
+13.  What is the output of the following Java program?  
+*
+1 point
+Captionless Image
+2.5
+2
+1
+Error
+14.What is the output of the following Java program?
+*
+1 point
+Captionless Image
+54321
+12345
+5
+Error
+15.  What does the following Java program do?
+*
+1 point
+Captionless Image
+Prints the sum of the first 10 natural numbers
+Prints the first 10 natural numbers
+Prints the first 10 integers
+None of the above
+16. What is the output of the following Java program?
+*
+1 point
+Captionless Image
+false
+true
+x > y
+x != y
+17.  What will be the output of this code segment?
+*
+1 point
+Captionless Image
+Even
+Odd
+No output
+Zero
+18.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+2
+1
+2.1
+2.0
+19.  Given the following flowchart, which of the following Java programs corresponds to it?
+*
+1 point
+Captionless Image
+
+A
+
+B
+
+C
+
+D
+20.  Given the following Java program, there are missing statements which you need to complete to make it functional.
+*
+1 point
+Captionless Image
+Statement 1: System.out.println("True");
+Statement 1: System.out.println("False");
+Statement 1: System.out.println("Even");
+Statement 1: System.out.println("Odd");
+21.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+Positive
+Negetive
+10
+Error
+22.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+Condition is true
+Condition is false
+condition
+Error
+23.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+Teenager
+Adult
+Senior citizen
+Error
+24.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+12345
+54321
+1
+Error
+25.  What does the following Java program do?
+*
+1 point
+Captionless Image
+Prints the sum of the first 10 natural numbers
+Prints the first 10 natural numbers
+Prints the first 10 integers
+None of the above
+26.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+y is greater
+x > y
+X is greater
+y < x
+27.  What will be the output of this code segment?
+*
+1 point
+Captionless Image
+x is greater
+y is greater
+both are equal
+no output
+28.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+024
+135
+12345
+54321
+29.  Given the following flowchart, which of the following Java program corresponds to it?
+*
+1 point
+Captionless Image
+
+Option 1
+
+Option 2
+
+Option 3
+
+Option 4
+30.  Given the following Java program, there are missing statements which you need to complete to make it functional.
+*
+1 point
+Captionless Image
+Statement 1: x = 5; Statement 2: System.out.println(x);
+Statement 1: x = 0; Statement 2: System.out.println(x);
+Statement 1: x = 5; Statement 2: System.out.println("Looping...");
+Statement 1: x = 0; Statement 2: System.out.println("Looping...");
+31.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+a is the largest
+b is the largest
+c is the largest
+no output
+32.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+Even
+Odd
+Number
+Error
+33.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+Condition is true
+Condition is false
+No output
+Error
+34.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+01234
+54321
+1
+Error
+35.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+02468
+13579
+123456789
+Error
+36.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+a is in between b and c
+a is not in between b and c
+Error
+No output
+37.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+Both are 10
+Both are not 10
+Error
+No output
+38.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+a is 10 and a is not equal to b
+Condition is false
+Error
+No output
+39.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+02468
+13579
+123456789
+Error
+40.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+a is the largest
+b is the largest
+c is the largest
+No output
+41.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+a is the smallest
+b is the smallest
+c is the smallest
+d is the smallest
+42.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+Condition is true
+Condition is false
+Error
+No output
+43.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+a is the largest
+b is the largest
+c is the largest
+d is the largest
+44.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+All conditions are true
+a condition is false
+b condition is false
+c condition is false
+45.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+Condition is true
+Condition is false
+Error
+No output
+46.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+a is the largest
+b is the largest
+c is the largest
+No output
+47.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+a or b is the largest
+c is the largest
+Error
+No output
+48.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+At least one condition is true
+Both conditions are false
+Error
+No output
+49.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+a equals b
+b equals c
+c equals d
+No conditions are true
+50.  What is the output of the following Java program?
+*
+1 point
+Captionless Image
+All conditions are true
+At least one condition is false
+Error
+No output
+Never submit passwords through Google Forms.
+This form was created inside of Masai School. Report Abuse
+Google Forms
